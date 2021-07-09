@@ -1,0 +1,8 @@
+Carne
+Pescado
+Pollo
+
+Papa
+Acelga
+Tomate
+Manzana
